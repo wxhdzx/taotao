@@ -1,0 +1,5 @@
+com\taotao\manage\bean\ItemCatResult.class
+com\taotao\manage\bean\ItemCatData.class
+com\taotao\manage\bean\PicUploadResult.class
+com\taotao\manage\spring\exetend\converter\json\CallbackMappingJackson2HttpMessageConverter.class
+com\taotao\manage\bean\EasyUIResult.class
